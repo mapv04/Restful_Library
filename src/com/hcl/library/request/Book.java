@@ -15,6 +15,5 @@ public class Book {
 	private String category;
 	private String lenguage;
 	private String bookCover;
-	private StatusBook status;
-	
+	private StatusBook status;	
 }
