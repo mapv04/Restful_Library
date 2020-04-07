@@ -13,7 +13,7 @@ public class TestService {
 	@Path("/")
 	@Produces("application/json")
 	public String getPage() {
-		return "FUNCIONA";
+		return "FUNCIONA BIEN";
 	}
 	
 	@POST
